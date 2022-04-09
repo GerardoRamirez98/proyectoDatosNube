@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 boto3 = "*"
 pandas = "*"
+awscli = "*"
+pyarrow = "*"
+jupyter = "*"
 
 [dev-packages]
 

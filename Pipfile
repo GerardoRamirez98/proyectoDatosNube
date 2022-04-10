@@ -9,6 +9,8 @@ pandas = "*"
 awscli = "*"
 pyarrow = "*"
 jupyter = "*"
+sklearn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
